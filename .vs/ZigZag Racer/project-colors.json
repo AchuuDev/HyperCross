@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1055e8ad-cc52-c327-c481-7e00b93ab88d": {
+      "ProjectGuid": "1055e8ad-cc52-c327-c481-7e00b93ab88d",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

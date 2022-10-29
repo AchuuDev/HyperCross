@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9d023064dde5627419756741c0a9c97a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Flynn Hollow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 217c43b42a33a264e922b59818b48021, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
